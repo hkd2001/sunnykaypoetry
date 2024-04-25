@@ -1,11 +1,12 @@
 body{
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
 }
 site-heading-lower{
-    font-family:Arial, Helvetica, sans-serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .mb-3{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:antiquewhite !important;
 }
 .notantiquewhite{
@@ -13,4 +14,8 @@ site-heading-lower{
 }
 .intro-text{
     box-shadow: 15px 15px 20px rgba(0,0,0,0.5)
+}
+.common{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
 }
